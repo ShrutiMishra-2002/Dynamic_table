@@ -2,7 +2,8 @@ var entry = document.getElementById("entry");
 entry.addEventListener("click", displayDetails);
 var row = 1;
 
-function displayDetails() {
+function displayDetails() 
+{
 
 var name = document.getElementById("name").value;
 var email = document.getElementById("email").value;

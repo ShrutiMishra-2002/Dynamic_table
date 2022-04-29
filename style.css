@@ -5,6 +5,15 @@
 	margin: 0;
 	padding: 0;
 }
+h2{
+    color: #004d00;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 100px;
+    text-transform: uppercase;
+    font-weight: 700;
+    /* font-size: large; */
+}
 body{
     /* font-family: 'Prompt', sans-serif; */
     font-family: 'Abril Fatface', cursive;
@@ -65,7 +74,7 @@ td{
     margin: 30px;
     color: #004d00;
     font-weight: 700;
-   
+    /* text-align: center; */
    
 }
 #name, #email, #skill{
