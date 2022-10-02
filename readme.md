@@ -1,0 +1,1 @@
+#This is a dynamic table where you can add the registration details
